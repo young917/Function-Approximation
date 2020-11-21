@@ -5,3 +5,10 @@ Although it is known that any function can be expressed through the neural netwo
 
 # MODEL
 What was difficult about the problem was that a model was needed to predict the y-value for x defined in infinite range. Since data cannot be made to cover the infinite range, solutions had to be found in the model design.
+
+![model outline](./img/model.png =200x)
+
+### LSTM
+
+![architecture](./img/lstm_1.png =200x)
+![parameter](./img/lstm_2.png =200x)
