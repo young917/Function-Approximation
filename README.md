@@ -30,24 +30,24 @@ Performing a task to determine the function value f(x) where range of x is [0, p
 
 * Comparison of accuracy with respect to LSTM stack size.
 
-<img src="./img/lstm_exp_1.png" alt="lstm_exp_1" width="250"/>
+   <img src="./img/lstm_exp_1.png" alt="lstm_exp_1" width="250"/>
 
 * Analysis of the effect of the number of data points on Accuracy.
 
-<img src="./img/lstm_exp_2.png" alt="lstm_exp_2" width="250"/>
+   <img src="./img/lstm_exp_2.png" alt="lstm_exp_2" width="250"/>
 
 ##### MLP
 * Analysis of the effect of the depth and width of MLP on Accuracy.
 
-<img src="./img/mlp_exp_1.png" alt="mlp_exp_width" width="250" hspace="40"/> <img src="./img/mlp_exp_2.png" alt="mlp_exp_depth" width="250"/>
+ <img src="./img/mlp_exp_1.png" alt="mlp_exp_width" width="250" hspace="40"/> <img src="./img/mlp_exp_2.png" alt="mlp_exp_depth" width="250"/>
 
 * Analysis of the impact of the number of data points on accuracy.
 
-<img src="./img/mlp_exp_3.png" alt="mlp_exp_3" width="350"/>
+   <img src="./img/mlp_exp_3.png" alt="mlp_exp_3" width="350"/>
 
 * Analysis of robustness for Biased Data.
 
-<img src="./img/mlp_exp_4.png" alt="mlp_exp_4" width="350"/>
+   <img src="./img/mlp_exp_4.png" alt="mlp_exp_4" width="350"/>
 
-<img src="./img/mlp_exp_5.png" alt="mlp_exp_5" width="300"/>
+   <img src="./img/mlp_exp_5.png" alt="mlp_exp_5" width="300"/>
 
